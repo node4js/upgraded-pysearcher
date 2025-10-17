@@ -1,0 +1,6 @@
+rich
+psutil
+pynvml
+numba
+numpy
+cupy
